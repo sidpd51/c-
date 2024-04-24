@@ -1,0 +1,14 @@
+/Users/sidpd57/Documents/c#/helloworld2/bin/Debug/net8.0/helloworld2
+/Users/sidpd57/Documents/c#/helloworld2/bin/Debug/net8.0/helloworld2.deps.json
+/Users/sidpd57/Documents/c#/helloworld2/bin/Debug/net8.0/helloworld2.runtimeconfig.json
+/Users/sidpd57/Documents/c#/helloworld2/bin/Debug/net8.0/helloworld2.dll
+/Users/sidpd57/Documents/c#/helloworld2/bin/Debug/net8.0/helloworld2.pdb
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.AssemblyInfoInputs.cache
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.AssemblyInfo.cs
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.csproj.CoreCompileInputs.cache
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.dll
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/refint/helloworld2.dll
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.pdb
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/helloworld2.genruntimeconfig.cache
+/Users/sidpd57/Documents/c#/helloworld2/obj/Debug/net8.0/ref/helloworld2.dll

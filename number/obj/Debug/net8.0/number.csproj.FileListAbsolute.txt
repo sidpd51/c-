@@ -1,0 +1,14 @@
+/Users/sidpd57/Documents/c#/number/bin/Debug/net8.0/number
+/Users/sidpd57/Documents/c#/number/bin/Debug/net8.0/number.deps.json
+/Users/sidpd57/Documents/c#/number/bin/Debug/net8.0/number.runtimeconfig.json
+/Users/sidpd57/Documents/c#/number/bin/Debug/net8.0/number.dll
+/Users/sidpd57/Documents/c#/number/bin/Debug/net8.0/number.pdb
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.AssemblyInfoInputs.cache
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.AssemblyInfo.cs
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.csproj.CoreCompileInputs.cache
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.dll
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/refint/number.dll
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.pdb
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/number.genruntimeconfig.cache
+/Users/sidpd57/Documents/c#/number/obj/Debug/net8.0/ref/number.dll
